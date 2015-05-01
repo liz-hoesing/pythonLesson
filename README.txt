@@ -1,3 +1,7 @@
-these are my changes I learned so cool things about Python today
+
+I learned so so so very cool things about Python today
 I learned about functions
-Starting to learn about Git
+dadfaefaeStarting to learn about Git
+
+these are the changes i made
+
